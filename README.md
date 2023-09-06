@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **SQL,NODE.JS**
 
-- 💬 Ask me about **web-dev**
+- 💬 Ask me about **web-development**
 
 - 📫 How to reach me **abhishekkumart483@gmail.com**
 
