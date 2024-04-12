@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-abhi1" alt="k-abhi1" /></a> </p>
 
-- 🌱 I’m currently learning **SQL,NODE.JS,PHP,**
+- 🌱 I’m currently learning **NODE.JS,express,**
 
 - 💬 Ask me about **web-devlopment**
 
