@@ -14,17 +14,33 @@
 - 📫 How to reach me **abhishekkumart483@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/abhishe95775566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/abhishe95775566" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/cutexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cutexx" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100037867716074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100037867716074" height="30" width="40" /></a>
-<a href="https://instagram.com/cutexx_abhi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cutexx_abhi1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@abhishek_singh0095?si=k--ycn_9u6y8dcfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@abhishek_singh0095?si=k--ycn_9u6y8dcfd" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/abhishekkumart41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abhishekkumart41" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/abhishekkumart483/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhishekkumart483/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhishekkrjng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhishekkrjng" height="30" width="40" /></a>
-</p>
 
+<p align="left">
+<a href="https://twitter.com/abhishe95775566" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/cutexx" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100037867716074" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://instagram.com/cutexx_abhi1" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://youtube.com/@abhishek_singh0095" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/abhishekkumart41" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://leetcode.com/abhishekkumart483/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/abhishekkrjng" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+</p>
 ### 🧑‍💻 Languages
 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
